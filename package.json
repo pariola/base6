@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "Blessing Pariola <blessingpariola@zoho.com>",
   "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
   "dependencies": {
     "webpack": "^4.10.2",
     "webpack-cli": "^3.0.1"
